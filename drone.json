@@ -2,5 +2,6 @@
   "battery_percentage": 75,
   "is_damaged": false,
   "needs_calibration": true,
-  "service_required": false
+  "service_required": false,
+  "timeofflight": "43 minutes"
 }
